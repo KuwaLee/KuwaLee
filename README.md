@@ -1,4 +1,4 @@
-## Hi there 👋
+# 又活了一天，已經很厲害了！
 
 <!--
 **KuwaLee/KuwaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
